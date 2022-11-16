@@ -31,6 +31,8 @@ Regular expressions - basics
 Regular expressions - advanced
 Rubular is your best friend
 Use a regular expression against a problem: now you have 2 problems
+![image](https://user-images.githubusercontent.com/106774656/202146977-44dd5d5e-921a-40c1-8c23-d9eb4ec68750.png)
+
 Learn Regular Expressions with simple, interactive exercises
 Requirements
 General
