@@ -1,6 +1,7 @@
 Distributed Web Infrastructure
 
-[image](https://user-images.githubusercontent.com/106774656/206957889-21d85e40-cf7d-4740-bd20-7461cfe10f48.png)
+![image](https://user-images.githubusercontent.com/106774656/207023806-01ea760a-0fab-494c-8a2c-2a42f060887f.png)
+
 
 
 
