@@ -1,5 +1,6 @@
 Secured and Monitored Web Infrastructure
-![image](https://user-images.githubusercontent.com/106774656/206959177-b362d2f6-31b2-4956-a492-59f4cae29cea.png)
+![image](https://user-images.githubusercontent.com/106774656/207031434-f8cae7d9-93b3-43f0-a544-d95bf2d5542e.png)
+
 
 Description
 This is a 3-server web infrastructure that is secured, monitored, and serves encrypted traffic.
