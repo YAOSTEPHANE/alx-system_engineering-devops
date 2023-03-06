@@ -1,5 +1,5 @@
 0x19. Postmortem
-
+![image](https://user-images.githubusercontent.com/106774656/223212578-8be709ca-71a9-45cd-bbe0-79cee15318d9.png)
 the issue occurred at 10:03 GMT in the consultaion of project 0x19. Post mortem
 GET requests to the server led to 500 internal server errors, when the expected response was an HTML file defining a simple Holberton WordPress site. this problem affected all ALX students. the cause of this issue was -1 ENOENT (No such file or directory) occurring when trying to access the file /var/www/html/wp-includes/class-wp-locale.phpp.
 Debug process
